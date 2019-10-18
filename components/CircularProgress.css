@@ -1,0 +1,19 @@
+ 
+  .circle-progress {
+    fill: #f1f1f1;
+  }
+  
+  .circle-background {
+    stroke: #f1f1f1;
+    opacity: 0;
+  }
+  
+  .circle-progress {
+    stroke-opacity: 0.5 
+    /* stroke-linejoin: round; */
+  }
+  
+  .circle-text {
+    font-weight: bold;
+    /* fill: black; */
+  }
